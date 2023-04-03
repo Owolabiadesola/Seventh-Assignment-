@@ -1,0 +1,43 @@
+body {
+  border: hidden black 10px;
+  margin: 0rem 20rem 1rem 20rem;
+  background-color: rgb(255, 99, 164);
+}
+img {
+  width: 70px;
+  height: 70px;
+  margin: 20px 25px 0px 0px;
+  border-radius: 17px 17px 17px 17px;
+}
+h3 {
+  font-style: italic;
+  font-size: 45px;
+  margin: 0px 0px 0px 150px;
+}
+p {
+  font-size: 24px;
+  color: darkslategrey;
+}
+a {
+  font-size: 20px;
+  color: white;
+  border: solid 1px rgb(15, 86, 240);
+  background-color: rgb(15, 86, 240);
+}
+input {
+  width: 300px;
+  height: 30px;
+}
+h4 {
+  color: darkslategrey;
+  font-style: inherit;
+  font-size: 20px;
+}
+h2 {
+  font-size: 20px;
+  color: white;
+}
+footer {
+  font-size: 18px;
+  color: darkslategrey;
+}
